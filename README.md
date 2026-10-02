@@ -1,19 +1,20 @@
 # 👋 Hi, I'm Chanhee Jo
 
-### 📈 Financial AI · 🤖 Reinforcement Learning · 💹 Quantitative Finance
+### 📈 Financial AI · 🤖 Reinforcement Learning · 🎮 Game Development · 📊 Quantitative Finance
 
-> Exploring how AI agents behave and interact in financial markets.
+> Exploring intelligent systems across financial markets and interactive games.
 
 🎓 Undergraduate Student in Artificial Intelligence
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Interests
 
-- 📊 Financial AI
-- 🏦 Financial Market Analysis
+- 📈 Financial AI
+- 📊 Financial Market Analysis
 - 🤖 Reinforcement Learning
-- 📈 Quantitative Finance
+- 🏦 Quantitative Finance
+- 🎮 Game Development
 - 🧠 AI / Data Analysis
 
 ---
@@ -21,6 +22,7 @@
 ## 📌 Selected Work
 
 ### 📈 Reinforcement Learning-Based Financial Market Analysis
+
 **ABIDES · Optimal Execution · Market Microstructure**
 
 Training and analyzing reinforcement learning-based execution agents
@@ -32,46 +34,47 @@ in an agent-based financial market simulator.
 - Price & Liquidity Impact
 - Multi-Agent Interaction
 
-🔒 **Research in Progress — Repository Private**
+🔒 Research in Progress
 
 ---
 
 ### 🧠 NPU Industry-Academic Project
+
 **Object Detection Lead**
 
-- Product candidate detection pipeline
-- Model testing & performance validation
-- Collaboration with industry partner
+- Developed a product candidate detection pipeline
+- Conducted model testing and performance validation
+- Collaborated directly with an industry partner
 
-🔒 **Industry Project — Repository Private**
+🔒 Industry Project
 
 ---
 
 ### 🎓 EveryGrade
+
 **AI Team Lead**
 
-- LangChain-based RAG recommendation pipeline
-- Course database construction
-- Personalized course recommendations
+- Built a course database
+- Developed a LangChain-based RAG recommendation pipeline
+- Implemented personalized course recommendations
 
-🏆 **1st Place — 2024 GGUM Joint Hackathon**
+🏆 1st Place — 2024 GGUM Hackathon
 
 ---
 
-### 💹 Financial Research
+### 🎮 Game Development
 
-Analyzing financial reports and market events from institutions including
-the **Bank of Korea and Federal Reserve**.
+**Unity · C# · Physics-Based Gameplay**
 
-Research topics include:
+Developing physics-based game prototypes with Unity,
+focusing on responsive movement, interaction, and gameplay systems.
 
-- Monetary Policy
-- Macroeconomic Outlook
-- Asset Allocation
-- Quantitative Finance
-- AI-Based Financial Analysis
+- Character movement and physics systems
+- Collision and interaction mechanics
+- Gameplay system design and prototyping
+- Iterative gameplay testing and balancing
 
-🔒 **Ongoing Research**
+🔒 Private Project in Development
 
 ---
 
@@ -83,16 +86,8 @@ Research topics include:
 ### 🤖 AI / Data
 `PyTorch` `Hugging Face` `Pandas` `NumPy` `scikit-learn` `OpenCV`
 
+### 🎮 Game Development
+`Unity` `C#` `Blender`
+
 ### 🔧 Tools
-`Git` `Unity` `Blender`
-
----
-
-## 🌱 Currently Exploring
-
-`Financial Market Simulation`
-`Reinforcement Learning`
-`Optimal Execution`
-`Market Microstructure`
-`Quantitative Finance`
-`Multi-Agent Systems`
+`Git`
