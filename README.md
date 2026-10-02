@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Chanhee Jo
 
-🎓 Undergraduate student in **Artificial Intelligence**
+### 📈 Financial AI · 🤖 Reinforcement Learning · 💹 Quantitative Finance
 
-📈 Interested in  
-**Financial AI · Market Analysis · Quantitative Finance · Reinforcement Learning**
+> Exploring how AI agents behave and interact in financial markets.
 
-I am currently exploring how AI agents interact with financial markets,
-with a particular focus on **agent behavior, execution strategies, and market impact**.
+🎓 Undergraduate Student in Artificial Intelligence
 
 ---
 
@@ -20,69 +18,60 @@ with a particular focus on **agent behavior, execution strategies, and market im
 
 ---
 
-## 📌 Current Research
+## 📌 Selected Work
 
 ### 📈 Reinforcement Learning-Based Financial Market Analysis
+**ABIDES · Optimal Execution · Market Microstructure**
 
-Training and analyzing an **Optimal Execution Agent using ABIDES**.
+Training and analyzing reinforcement learning-based execution agents
+in an agent-based financial market simulator.
 
-My research focuses on:
+- Execution Performance
+- Market-State Response
+- Baseline Strategy Comparison
+- Price & Liquidity Impact
+- Multi-Agent Interaction
 
-- ⚙️ Execution Performance
-- 🧠 Agent Response to Market States
-- 🔄 Baseline Strategy Comparison
-- 📉 Price & Liquidity Impact
-- 🤝 Multi-Agent Interaction
-
-`ABIDES` `Reinforcement Learning` `Optimal Execution` `Market Microstructure`
+🔒 **Research in Progress — Repository Private**
 
 ---
-
-## 🚀 Projects & Experience
 
 ### 🧠 NPU Industry-Academic Project
 **Object Detection Lead**
 
-- Developed a product candidate detection pipeline
-- Conducted model testing and performance validation
-- Collaborated directly with an industry partner
+- Product candidate detection pipeline
+- Model testing & performance validation
+- Collaboration with industry partner
+
+🔒 **Industry Project — Repository Private**
+
+---
 
 ### 🎓 EveryGrade
 **AI Team Lead**
 
-- Built a course database
-- Developed a LangChain-based RAG recommendation pipeline
-- Implemented personalized course recommendations
-- 🏆 **1st Place — 2024 GGUM Joint Hackathon**
+- LangChain-based RAG recommendation pipeline
+- Course database construction
+- Personalized course recommendations
 
-### 💹 Financial Research & Portfolio
-
-- Analyzing reports from the **Bank of Korea and Federal Reserve**
-- Building investment hypotheses from macroeconomic research
-- Managing a research-driven personal portfolio
-- Reviewing portfolio decisions and market outcomes
+🏆 **1st Place — 2024 GGUM Joint Hackathon**
 
 ---
 
-## 🏆 AI Challenges
+### 💹 Financial Research
 
-- 🤖 **LG Aimers 8th**
-  - EXAONE Model Compression
-  - **44 / 628 Teams**
+Analyzing financial reports and market events from institutions including
+the **Bank of Korea and Federal Reserve**.
 
-- 🧩 **SNU AI Challenge**
-  - Scene Reconstruction from Text
-  - **48 / 129 Teams**
+Research topics include:
 
----
+- Monetary Policy
+- Macroeconomic Outlook
+- Asset Allocation
+- Quantitative Finance
+- AI-Based Financial Analysis
 
-## 📚 Financial Research & Study
-
-- 🏦 Bank of Korea Economic Outlook Analysis
-- 🇺🇸 FOMC / SEP Analysis
-- 📊 Financial Data Analysis Study Organizer
-- 📰 Financial & AI Research Blog
-- 📈 News Sentiment-Based Stock Prediction Project
+🔒 **Ongoing Research**
 
 ---
 
@@ -101,9 +90,9 @@ My research focuses on:
 
 ## 🌱 Currently Exploring
 
-- Financial Market Simulation
-- Optimal Execution
-- Market Impact Analysis
-- Multi-Agent Systems
-- Quantitative Finance
-- AI-Based Trading Systems
+`Financial Market Simulation`
+`Reinforcement Learning`
+`Optimal Execution`
+`Market Microstructure`
+`Quantitative Finance`
+`Multi-Agent Systems`
